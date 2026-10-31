@@ -1,4 +1,5 @@
 # 🌐 MPLS Network Infrastructure Simulation & Verification
+<img width="1920" height="1022" alt="17" src="https://github.com/user-attachments/assets/424913d4-866b-45f0-80e0-ffbac21618cf" />
 
 ![GNS3](https://img.shields.io/badge/Simulator-GNS3-blue.svg)
 ![Routing Protocol](https://img.shields.io/badge/IGP-OSPF-orange.svg)
@@ -11,7 +12,6 @@ A comprehensive lab implementation and traffic analysis of a **Multi-Protocol La
 
 This project demonstrates end-to-end IP reachability, interior gateway routing via **OSPF**, label distribution via **LDP**, dynamic label switching verification (`traceroute`), and packet-level inspection using **Wireshark**.
 
-<img width="1920" height="1022" alt="17" src="https://github.com/user-attachments/assets/424913d4-866b-45f0-80e0-ffbac21618cf" />
 
 ---
 
